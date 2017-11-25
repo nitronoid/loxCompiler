@@ -1,0 +1,5 @@
+*.o
+*.qmake*
+*Makefile
+*.pro.user*
+lox
