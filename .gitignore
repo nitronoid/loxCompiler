@@ -2,4 +2,4 @@
 *.qmake*
 *Makefile
 *.pro.user*
-lox
+compiler/compiler
